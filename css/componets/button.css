@@ -9,6 +9,7 @@
     box-shadow: 5px 5px 0 #000;
     cursor: pointer;
     transition: transform 100ms  cubic-bezier(0, 0, 0.55, 2.05);
+    text-decoration: none;
     
 
 }
