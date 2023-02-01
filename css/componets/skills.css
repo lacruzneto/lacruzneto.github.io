@@ -1,0 +1,11 @@
+.skills{
+    display: block;
+    box-sizing: border-box;
+    height: 550px;
+    background-color: teal;
+    background-size: 100%;
+    padding-top: 20px;
+    border-bottom: 10px solid black ;
+
+
+}
